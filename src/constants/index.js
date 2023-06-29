@@ -119,7 +119,7 @@ import {
         }
       ],
       image: comingsoon,
-      source_code_link: "https://github.com/Shuseynzade",
+      source_code_link: "https://github.com/Shuseynzada",
     }
   ];
   
