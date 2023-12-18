@@ -63,7 +63,7 @@ import {
       icon: javascript,
     },
     {
-      name: "React JS",
+      name: "ReactJS",
       icon: reactjs,
     },
     {
