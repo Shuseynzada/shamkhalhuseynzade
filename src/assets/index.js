@@ -14,6 +14,7 @@ import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
+import typescript from "./tech/typescript.png"
 
 import icpc from "./company/icpclogo.png"
 import magazine from "./company/magazine.jpg"
@@ -34,6 +35,7 @@ export {
   html,
   javascript,
   reactjs,
+  typescript,
   tailwind,
   icpc,
   magazine,
